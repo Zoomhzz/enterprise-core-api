@@ -25,6 +25,7 @@ O projeto demonstra o domínio de uma arquitetura em camadas e o uso avançado d
 ### 👥 Funcionários (`/funcionario`)
 | Método | Endpoint | Ação |
 |---|---|---|
+| GET | `/funcionario` | Lista todos os colaboradores |
 | POST | `/funcionario` | Cadastro com validação de e-mail |
 | PUT | `/funcionario/{id}` | Atualização de cargo/salário |
 
@@ -46,4 +47,5 @@ O projeto demonstra o domínio de uma arquitetura em camadas e o uso avançado d
 3. Execute através do Maven: `mvn spring-boot:run`.
 
 ---
-Desenvolvido por **Seu Nome** - [LinkedIn]((https://www.linkedin.com/in/rodrigo-costa-139234353/)) | [E-mail](Rodrigocostas147@gmail.com)
+Desenvolvido por **Rodrigo Costa** 📩 [rodrigocostas147@gmail.com](mailto:rodrigocostas147@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-costa-139234353/)
