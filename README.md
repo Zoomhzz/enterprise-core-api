@@ -46,4 +46,6 @@ O projeto demonstra o domínio de uma arquitetura em camadas e o uso avançado d
 3. Execute através do Maven: `mvn spring-boot:run`.
 
 ---
-Desenvolvido por **Seu Nome** - [LinkedIn](seu-link-aqui) | [E-mail](seu-email-aqui)
+Desenvolvido por **Rodrigo Costa** - [LinkedIn](www.linkedin.com/in/
+rodrigo-costa-139234353
+) | [E-mail](Rodrigocostas147@gmail.com)
