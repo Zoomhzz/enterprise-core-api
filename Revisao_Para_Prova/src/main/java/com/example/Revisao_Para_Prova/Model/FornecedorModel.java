@@ -3,7 +3,7 @@ package com.example.Revisao_Para_Prova.Model;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "tab_fornecedor") // Define o nome da tabela no MySQL
+@Table(name = "tab_fornecedor")
 public class FornecedorModel {
 
     @Id
