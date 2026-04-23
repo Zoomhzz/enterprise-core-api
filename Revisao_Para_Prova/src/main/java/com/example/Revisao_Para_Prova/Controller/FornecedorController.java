@@ -23,7 +23,7 @@ import java.util.Map;
         }
 
 
-        @GetMapping("/cnpj/{cnpj}")
+        @GetMapping("/{cnpj}")
         public ResponseEntity<FornecedorModel> buscarPorCnpj(@PathVariable String cnpj) {
             FornecedorModel fornecedor = service.buscarPorCnpj(cnpj);
             return ResponseEntity.ok(fornecedor);
